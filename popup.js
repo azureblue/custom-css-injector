@@ -1,6 +1,6 @@
-/**@type {HTMLTextAreaElement} */
+/** @type {HTMLTextAreaElement} */
 let textArea = document.getElementById("style-text");
-/**@type {HTMLLabelElement} */
+/** @type {HTMLLabelElement} */
 let label = document.getElementById("style-label");
 let saveButton = document.getElementById("save");
 
